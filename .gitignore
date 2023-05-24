@@ -34,4 +34,7 @@ override.tf.json
 terraform.rc
 
 .terraform.lock.hcl
-add_customer.zip
+lambda-functions.zip
+
+# package directories
+node_modules

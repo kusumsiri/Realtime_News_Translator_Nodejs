@@ -1,6 +1,6 @@
 # Realtime News Translator Application - Node.js
 English
-> Note: A similar [python3 application](https://github.com/kusumsiri/Realtime_News_Translator_Python3) can be found here
+> Note: A similar python3 application can be found [here](https://github.com/kusumsiri/Realtime_News_Translator_Python3)
 
 A real-time news translator application with Amazon serverless technology using Terraform and Node.js. This app translates German news into English in real time. This conversion happens automatically when the Lambda function URL is accessed.
 It uses two APIs. The [newsapi.org](https://newsapi.org/) API is used to pull news and then uses Google Translater to translate it.

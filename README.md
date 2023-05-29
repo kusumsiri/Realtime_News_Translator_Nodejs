@@ -9,7 +9,7 @@ The newsapi.org API-KEY is considered a secret value. So it must be set in a .tf
 
 ---
 Deutsch
-> Notiz: Eine ähnliche [Python3-Anwendung](https://github.com/kusumsiri/Realtime_News_Translator_Python3) finden Sie hier 
+> Notiz: Eine ähnliche Python3-Anwendung finden Sie [hier](https://github.com/kusumsiri/Realtime_News_Translator_Python3)
 > 
 Eine Echtzeit-Nachrichtenübersetzungsanwendung mit serverloser Amazon-Technologie unter Verwendung von Terraform und Node.js. Diese App übersetzt deutsche Nachrichten in Echtzeit ins Englische. Diese Konvertierung erfolgt automatisch, wenn auf die Lambda-Funktions-URL zugegriffen wird. Es verwendet zwei APIs. Die [newsapi.org](https://newsapi.org/) API wird zum Abrufen von Nachrichten verwendet und verwendet dann Google Translater, um sie zu übersetzen.
 

@@ -16,5 +16,6 @@ Eine Echtzeit-Nachrichtenübersetzungsanwendung mit serverloser Amazon-Technolog
 Der newsapi.org API-KEY gilt als geheimer Wert. Daher muss es in einer .tfvars-Datei festgelegt werden, die sich nicht in diesem Repository befindet. Der Schlüssel wird dann als Umgebungsvariable für die Lambda-Funktion festgelegt.
 
 ---
-### Screenshot
-![Screenshot](Screenshot.png)
+### The Output
+### Die Ausgabe
+![The output](output.png)

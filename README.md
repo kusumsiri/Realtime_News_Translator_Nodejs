@@ -14,3 +14,5 @@ Deutsch
 Eine Echtzeit-Nachrichtenübersetzungsanwendung mit serverloser Amazon-Technologie unter Verwendung von Terraform und Node.js. Diese App übersetzt deutsche Nachrichten in Echtzeit ins Englische. Diese Konvertierung erfolgt automatisch, wenn auf die Lambda-Funktions-URL zugegriffen wird. Es verwendet zwei APIs. Die [newsapi.org](https://newsapi.org/) API wird zum Abrufen von Nachrichten verwendet und verwendet dann Google Translater, um sie zu übersetzen.
 
 Der newsapi.org API-KEY gilt als geheimer Wert. Daher muss es in einer .tfvars-Datei festgelegt werden, die sich nicht in diesem Repository befindet. Der Schlüssel wird dann als Umgebungsvariable für die Lambda-Funktion festgelegt.
+
+![Screenshot](Screenshot.png)
